@@ -7,7 +7,6 @@ Proyek testing manual pada website e-commerce Practice Software Testing untuk me
 - **Website**: https://practicesoftwaretesting.com/
 - **Tipe Testing**: Manual Testing (Black Box)
 - **Total Test Cases**: 142
-- **Periode**: November 2024
 - **Tester**: Erlina Febiola Nainggolan
 
 ## Tujuan Testing
